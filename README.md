@@ -59,14 +59,14 @@ cd frontend
 npm install
 npm run dev
 ```
-📦 Technologies Used
+## 📦 Technologies Used
 Frontend: React, Redux Toolkit, Axios, Tailwind CSS, TanStack Router
 
 Backend: Node.js, Express.js, MongoDB, Mongoose, JWT
 
 Tools: Postman, Vite, dotenv
 
-🧠 Future Enhancements
+## 🧠 Future Enhancements
 📊 Dashboard with click analytics
 
 🔗 Custom short URLs
